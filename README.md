@@ -89,9 +89,10 @@ prevents data from being mixed between churches.
 Screenshots use demonstration data only. No real member, donation, or financial
 data is shown.
 
-| Dashboard | Members |
-|---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Members](docs/screenshots/members.png) |
+![Members Page and Add Member dialog](docs/screenshots/MembersPage.png)
+![Donation Page](docs/screenshots/DonationPage.png)
+![Finance Page](docs/screenshots/FinancePage.png)
+![Budget Sub Finance Page](docs/screenshots/BudgetSubPage.png)
 
 ## Status
 
